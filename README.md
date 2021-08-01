@@ -1,13 +1,13 @@
-# classify-dataset-foulder
+# classify-dataset-folder
 This is a subproject for https://github.com/amindadgar/cloth-classification
 
-In this project our dataset file was uncategorized, So we created a python script to categorize foulders. <br>
-##### Old dataset foulder tree: <br>
+In this project our dataset file was uncategorized, So we created a python script to categorize folders. <br>
+##### Old dataset folder tree: <br>
 ```
 dataset/
 ```
 
-##### New Dataset foulder tree: <br>
+##### New Dataset folder tree: <br>
 ```
 dataset/
 ├─ T-Shirt/
